@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/x64/Debug
+/snake.vcxproj.user
+/snake.vcxproj.filters
+/snake.vcxproj
+/snake.sln
+/.vs/snake
